@@ -34,7 +34,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-semana01-Exercicio2",
-            "program": "${workspaceFolder}/semana01/Exercicio2/bin/Debug/net8.0/Exercicio2.dll",
+            "program": "${workspaceFolder}/semana01/Exercicio2/bin/Debug/net10.0/Exercicio2.dll",
             "args": [],
             "cwd": "${workspaceFolder}/semana01/Exercicio2",
             "console": "integratedTerminal",
